@@ -22,3 +22,7 @@
 #### Git Commands
 * `git push` - push your latest changes to a remote repository.
 * `git pull` - pull the latest changes from a remote repository to your repository.
+
+## 5.4 GitHub
+* [GitHub help - Pull Requests](https://help.github.com/articles/about-pull-requests/)
+* [GitHub tutorial - forking a repository and contributing to a project](https://help.github.com/articles/fork-a-repo/)
