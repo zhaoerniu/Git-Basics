@@ -17,3 +17,8 @@
 * `git clone` - create a new repository that is a clone of a remote repository.
 * `git remote` - list all remote repositories associated with the current repository.
 * `git remote add` - add a new remote repository to the current repository.
+
+## 5.3 Pushing and Pulling
+#### Git Commands
+* `git push` - push your latest changes to a remote repository.
+* `git pull` - pull the latest changes from a remote repository to your repository.
