@@ -11,3 +11,9 @@
 ## 4.2 Basic Merging
 #### Git Commands
 * `git merge branchname` - merge the history from *branchname* into the current branch.
+
+## 5.2 Cloning
+#### Git Commands
+* `git clone` - create a new repository that is a clone of a remote repository.
+* `git remote` - list all remote repositories associated with the current repository.
+* `git remote add` - add a new remote repository to the current repository.
