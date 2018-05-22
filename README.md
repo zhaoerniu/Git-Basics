@@ -26,3 +26,11 @@
 ## 5.4 GitHub
 * [GitHub help - Pull Requests](https://help.github.com/articles/about-pull-requests/)
 * [GitHub tutorial - forking a repository and contributing to a project](https://help.github.com/articles/fork-a-repo/)
+
+## 6.1 A Day in the Life of a Git Project
+* [The article that defined "Feature Branch" methodology](https://martinfowler.com/bliki/FeatureBranch.html)
+
+## 6.2 Git-Flow
+* [The git-flow project on GitHub](https://github.com/nvie/gitflow)
+* [The branching model that git-flow is based on](http://nvie.com/posts/a-successful-git-branching-model/)
+* [A blog post describing how git-flow works](https://jeffkreeftmeijer.com/git-flow/)
